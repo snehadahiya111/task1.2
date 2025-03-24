@@ -1,2 +1,5 @@
 creating file1.txt
+HEAD
 change from main branch
+change from conflict branch
+conflict-branch
